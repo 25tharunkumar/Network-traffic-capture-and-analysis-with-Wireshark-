@@ -1,6 +1,6 @@
 # Network-traffic-capture-and-analysis-with-Wireshark
-### Name : Aakashraj M
-### Reg.No : 212222100002
+### Name : THARUN KUMAR M
+### Reg.No : 212222100056
 ## AIM:
 To capture and analyze network traffic using Wireshark in order to observe protocols, packets, and potential anomalies.
 
